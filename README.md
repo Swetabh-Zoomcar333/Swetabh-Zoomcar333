@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div>
+<div style="text-align: center;">
   
 
 ![Swetabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetabh-Zoomcar333&show_icons=true&theme=tokyonight)
